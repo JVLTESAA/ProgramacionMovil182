@@ -1,0 +1,9 @@
+Que es JS?
+Lenguajes de programación mas populares de todo el mundo, con el cual se puede trabajar en el desarrollo web, así como en desarrollo Frontend que se encarga de construir toda la parte visual de la aplicación, así también del desarrollo Backend que se encarga de la programación en la parte del servidor, desarrollador Fullstack que se puede encargar del Frontend y del Backend.
+Ademas se puede tabajar como desarrollador movile tanto como para Android y iOS, también se pueden construir aplicaciones de escritorio.
+
+Por ultimo se puede trabajar con microcontroladores.
+
+Frameworks: entrega muchas herramientas para desarrollar aplicaciones complejas y te instruye en como trabajar sobre ellas. El Framework entrega mas herramientas que una librería.
+
+Librería: Se encarga en solucionar un problema en especifico, sin embargo también es una herramienta que solo se encarga en resolver un problema en especifico 
