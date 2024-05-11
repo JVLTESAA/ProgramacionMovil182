@@ -1,4 +1,6 @@
-Que es JS?
+¿Qué es JS?
+
+Fue un lenguaje que se escribió para los exploradores web, por lo que todos los exploradores en la actualidad cuentan con un motor que se encarga de ejecutar JS (JavaScript Engine)
 Lenguajes de programación mas populares de todo el mundo, con el cual se puede trabajar en el desarrollo web, así como en desarrollo Frontend que se encarga de construir toda la parte visual de la aplicación, así también del desarrollo Backend que se encarga de la programación en la parte del servidor, desarrollador Fullstack que se puede encargar del Frontend y del Backend.
 Ademas se puede tabajar como desarrollador movile tanto como para Android y iOS, también se pueden construir aplicaciones de escritorio.
 
@@ -7,3 +9,39 @@ Por ultimo se puede trabajar con microcontroladores.
 Frameworks: entrega muchas herramientas para desarrollar aplicaciones complejas y te instruye en como trabajar sobre ellas. El Framework entrega mas herramientas que una librería.
 
 Librería: Se encarga en solucionar un problema en especifico, sin embargo también es una herramienta que solo se encarga en resolver un problema en especifico 
+
+Frameworks JS:
+-Vue
+-Angular
+-React
+
+ ¿Qué es ECMAScript?
+
+European Computer Manofacturers Association, el cual a contribuido con varios estándares técnologicos como:
+ECMA 334 -> Especificaciones técnicas de C#
+ECMA 404 -> Especificaciones técnicas de JSON
+ECMA 408 -> Especificaciones técnicas de Dart
+
+ECMA 262 O ECMAScript -> El cual indica los estándares para los lenguajes de programación JavaScript, JSript y de ActionScript.
+
+ECMAScript 2015 -> Actualización de versión que añadieron funcionalidades como:
+-Let
+-const
+-fat arrow funtion
+-clases en JS 
+
+JS fue un lenguaje que se escribió para los exploradores web, por lo que todos los exploradores en la actualidad cuentan con un motor que se encarga de ejecutar JS (JavaScript Engine)
+
+El motor de Google Chrome se llama V8, es un motor de código abierto lo que quiere decir que cualquier persona en el miundo puede acceder a el.
+
+Debido a que el desarrollador Rayan Dahl logro embeber el motor V8 dentro de código escrito en C++, lo que permitió que el código JS pueda se ejecutado en cualquier servidor, APPs de escritorio, APPs móviles, videojuegos, o microcontroladores.
+
+Como se llama el V8 ENBEBITO Y escrito en C++ Node JS, dicho en otras palabras el
+ 
+código en C++ que permitió embeber el motor V8 de Google Chrome se llama Node JS
+
+HERRAMIENTAS A DESCARGAR 
+
+-Visual Studio Code
+-NODEJS
+-Google Chrome
